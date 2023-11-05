@@ -30,7 +30,9 @@ To set up Kalopsia Bot on your machine:
    * `git clone https://github.com/Monochromish/Kalopsia-Bot.git`
 2. Modify the `example.env` file and rename it to `.env`
 3. Install the necessary dependencies using your package manager
-4. Run the bot
+  * `Npm install` usally
+4. Run the boT
+  * `Npm run start`
 
 ## Contributing
 
