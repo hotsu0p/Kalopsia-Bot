@@ -27,6 +27,7 @@ To use and develop Kalopsia Bot, you will need:
 To set up Kalopsia Bot on your machine:
 
 1. Clone or download the repository
+    * `git clone https://github.com/Monochromish/Kalopsia-Bot.git`
 2. Modify the `example.env` file and rename it to `.env`
 3. Install the necessary dependencies using your package manager
 4. Run the bot
